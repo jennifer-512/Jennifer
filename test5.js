@@ -30,3 +30,4 @@ let student={
     regno:133,
     name:"aaa"
 }
+
